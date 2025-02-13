@@ -1,0 +1,14 @@
+C:\Users\FIC\source\repos\ProjetoMarcos\bin\Debug\net9.0\ProjetoMarcos.exe
+C:\Users\FIC\source\repos\ProjetoMarcos\bin\Debug\net9.0\ProjetoMarcos.deps.json
+C:\Users\FIC\source\repos\ProjetoMarcos\bin\Debug\net9.0\ProjetoMarcos.runtimeconfig.json
+C:\Users\FIC\source\repos\ProjetoMarcos\bin\Debug\net9.0\ProjetoMarcos.dll
+C:\Users\FIC\source\repos\ProjetoMarcos\bin\Debug\net9.0\ProjetoMarcos.pdb
+C:\Users\FIC\source\repos\ProjetoMarcos\obj\Debug\net9.0\ProjetoMarcos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FIC\source\repos\ProjetoMarcos\obj\Debug\net9.0\ProjetoMarcos.AssemblyInfoInputs.cache
+C:\Users\FIC\source\repos\ProjetoMarcos\obj\Debug\net9.0\ProjetoMarcos.AssemblyInfo.cs
+C:\Users\FIC\source\repos\ProjetoMarcos\obj\Debug\net9.0\ProjetoMarcos.csproj.CoreCompileInputs.cache
+C:\Users\FIC\source\repos\ProjetoMarcos\obj\Debug\net9.0\ProjetoMarcos.dll
+C:\Users\FIC\source\repos\ProjetoMarcos\obj\Debug\net9.0\refint\ProjetoMarcos.dll
+C:\Users\FIC\source\repos\ProjetoMarcos\obj\Debug\net9.0\ProjetoMarcos.pdb
+C:\Users\FIC\source\repos\ProjetoMarcos\obj\Debug\net9.0\ProjetoMarcos.genruntimeconfig.cache
+C:\Users\FIC\source\repos\ProjetoMarcos\obj\Debug\net9.0\ref\ProjetoMarcos.dll

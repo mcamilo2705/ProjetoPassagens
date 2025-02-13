@@ -1,0 +1,14 @@
+C:\Users\FIC\Downloads\ProjetoPassagem\bin\Debug\net9.0\ProjetoPassagem.exe
+C:\Users\FIC\Downloads\ProjetoPassagem\bin\Debug\net9.0\ProjetoPassagem.deps.json
+C:\Users\FIC\Downloads\ProjetoPassagem\bin\Debug\net9.0\ProjetoPassagem.runtimeconfig.json
+C:\Users\FIC\Downloads\ProjetoPassagem\bin\Debug\net9.0\ProjetoPassagem.dll
+C:\Users\FIC\Downloads\ProjetoPassagem\bin\Debug\net9.0\ProjetoPassagem.pdb
+C:\Users\FIC\Downloads\ProjetoPassagem\obj\Debug\net9.0\ProjetoPassagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FIC\Downloads\ProjetoPassagem\obj\Debug\net9.0\ProjetoPassagem.AssemblyInfoInputs.cache
+C:\Users\FIC\Downloads\ProjetoPassagem\obj\Debug\net9.0\ProjetoPassagem.AssemblyInfo.cs
+C:\Users\FIC\Downloads\ProjetoPassagem\obj\Debug\net9.0\ProjetoPassagem.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Downloads\ProjetoPassagem\obj\Debug\net9.0\ProjetoPassagem.dll
+C:\Users\FIC\Downloads\ProjetoPassagem\obj\Debug\net9.0\refint\ProjetoPassagem.dll
+C:\Users\FIC\Downloads\ProjetoPassagem\obj\Debug\net9.0\ProjetoPassagem.pdb
+C:\Users\FIC\Downloads\ProjetoPassagem\obj\Debug\net9.0\ProjetoPassagem.genruntimeconfig.cache
+C:\Users\FIC\Downloads\ProjetoPassagem\obj\Debug\net9.0\ref\ProjetoPassagem.dll
