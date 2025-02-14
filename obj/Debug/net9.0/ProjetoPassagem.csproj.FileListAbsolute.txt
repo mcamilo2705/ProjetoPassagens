@@ -12,3 +12,4 @@ C:\Users\FIC\Downloads\ProjetoPassagem\obj\Debug\net9.0\refint\ProjetoPassagem.d
 C:\Users\FIC\Downloads\ProjetoPassagem\obj\Debug\net9.0\ProjetoPassagem.pdb
 C:\Users\FIC\Downloads\ProjetoPassagem\obj\Debug\net9.0\ProjetoPassagem.genruntimeconfig.cache
 C:\Users\FIC\Downloads\ProjetoPassagem\obj\Debug\net9.0\ref\ProjetoPassagem.dll
+C:\Users\FIC\Downloads\ProjetoPassagem\obj\Debug\net9.0\ProjetoPassagem.sourcelink.json
